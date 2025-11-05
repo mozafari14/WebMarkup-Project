@@ -163,8 +163,13 @@ h2::after {
   color: var(--main-red);
 }
 .card p {
-  margin: 10px;
-  color: var(--gray);
+  background-color: #fff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ddd;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
 }
 
 /* ==========================================================
