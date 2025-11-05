@@ -315,6 +315,8 @@ body.contact .social-links a:hover {
   }
   .hero {
     padding: 40px 10px;
+    font-size: 1.1rem;
+     word-spacing: 4px;  
   }
   .card-container {
     grid-template-columns: 1fr;
