@@ -100,6 +100,10 @@ nav a:hover {
 .hero p {
   font-size: 1.1rem;
 }
+.hero > a {
+  margin: 0 8px;
+  display: inline-block;
+}
 
 /* ==========================================================
    SECTIONS (Generic)
