@@ -174,7 +174,9 @@ form {
   background-color: #fff;
   padding: 25px;
   border-radius: 10px;
-  border: 1px solid #ddd;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ddd;
 }
 
 label {
