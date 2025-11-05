@@ -239,6 +239,10 @@ footer {
 footer a {
   color: var(--accent-yellow);
 }
+footer > .footer-content > .socials > a {
+  margin: 0 5px;
+  display: inline-block;
+}
 footer a:hover {
   text-decoration: underline;
 }
