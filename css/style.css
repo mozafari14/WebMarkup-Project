@@ -304,7 +304,9 @@ body.contact .contact-info {
 body.contact .social-links a {
   margin: 0 10px;
   color: var(--main-red);
-  border: 1px solid var(--main-red);
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--main-red);
   padding: 6px 12px;
   border-radius: 4px;
   transition: 0.3s;
